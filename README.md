@@ -2,7 +2,7 @@
 This is a simple "Roll The Dice" app made in react native that shows random dice face images on press of a button.
 
 Initial Screen
- <img src="https://github.com/tauseefshoaib/Roll-The-Dice/assets/78302420/05eaaf7b-3cd9-4016-8bf7-46e89ac58bfa" alt="alt text" width="100" height="200">
+ <img src="https://github.com/tauseefshoaib/Roll-The-Dice/assets/78302420/05eaaf7b-3cd9-4016-8bf7-46e89ac58bfa" alt="alt text" width="250" height="500">
 
 
 
